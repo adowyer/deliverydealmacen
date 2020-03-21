@@ -298,7 +298,8 @@ Primary use:
 
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
-.bg0 {background-color: #fff;}
+.bg0 {background-color: #fff; background-image: /images/Fondo-Delivery-Almacen.png;}
+
 
 .bg-img1 {
   background-position: center;
