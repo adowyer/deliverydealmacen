@@ -54,11 +54,11 @@
     left: 14%;
     text-align: center ;
 }
-@media (max-width: 768px) {
+@media (max-width: 576px) {
     .texto-1 {  
         position: fixed;
-        top: 25%;
-        left: 13%;
+        top: 20%;
+        left: 10%;
         text-align: center ;
     }
 }
