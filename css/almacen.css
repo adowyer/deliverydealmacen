@@ -29,9 +29,15 @@
 
   .bg0 {
       background-color: #fff; 
-      background-image: url(/images/Fondo-Delivery-Almacen.png) no-repeat center center fixed;
+      background: url(/images/Fondo-Delivery-Almacen.png) no-repeat center center;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+      background-attachment: auto;
+      width: 100vw;
+      height: 100vh;
+      z-index: -999;
+      top: 0;
+      left: 0;
     }
