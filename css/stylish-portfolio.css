@@ -108,6 +108,8 @@ h2 {
   padding-right: 5%;
 }
 
+.container {margin-top: 0;}
+
 .bottom-text {
   position: fixed;
   bottom: -10px;
