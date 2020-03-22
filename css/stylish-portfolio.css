@@ -87,6 +87,11 @@ h2 {
   }
 }
 
+.copy-container {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 .map iframe {
   pointer-events: none;
 }
