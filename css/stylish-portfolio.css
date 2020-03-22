@@ -49,6 +49,7 @@ h3 {
 h6 {
   font-size: 1.3rem;
   font-weight: 300;
+  color: rgba(255, 255, 255,1);
 }
 
 h5 {
@@ -136,6 +137,12 @@ h5 {
 
 .copy-container {
   text-align: justify; 
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.quedate-container {
+  text-align: left; 
   padding-left: 10%;
   padding-right: 10%;
 }
