@@ -89,6 +89,10 @@ h2 {
   color: rgba(255, 255, 255, 0.7);
 }
 
+.text-bold {
+  font-family: 'BloggerSans';
+}
+
 .image-top {
   max-width: 100%;
   height: auto;
