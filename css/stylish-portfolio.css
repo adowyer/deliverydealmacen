@@ -36,7 +36,8 @@ body {
 h1,
 h2,
 h3,
-h4 
+h4,
+h5
 {
   font-weight: 700;
   color: rgba(255, 255, 255, 1);
@@ -53,9 +54,7 @@ h6 {
 }
 
 h5 {
-  color: rgba(255, 255, 255, 0.8);
-  text-align: left;
-  font-weight: 700;
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .text-faded {
@@ -136,7 +135,7 @@ h5 {
 }
 
 .copy-container {
-  text-align: justify; 
+  text-align: center; 
   padding-left: 10%;
   padding-right: 10%;
 }
