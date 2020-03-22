@@ -119,6 +119,10 @@ h3 {
   background-size: cover;
 }
 
+.container {
+  z-index: 99999;
+}
+
 .masthead h1 {
   font-size: 4rem;
   margin: 0;
