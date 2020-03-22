@@ -36,9 +36,8 @@ body {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h4 
+{
   font-weight: 700;
   color:  rgba(255, 255, 255, 1)
 }
@@ -49,12 +48,13 @@ h3 {
 
 h6 (
   font-size: 1.3rem;
-  font-weight: 300 !important;
+  font-weight: 300;
 )
 
 h5 {
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: rgba(255, 255, 255, 0.8);
   text-align: left;
+  font-weight: 700;
 }
 
 .text-faded {
