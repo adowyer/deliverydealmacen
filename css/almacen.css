@@ -28,7 +28,7 @@
   }
 
 .l2-txt2 {
-    font-family: Lato-Bold;
+    font-family: Lato-Light;
     font-size: 25px;
     line-height: 1;
     color: #fff;
@@ -45,5 +45,5 @@
     position: fixed;
     top: 30%;
     left: 20%;
-    text-align: center;
+    text-align: center ;
 }
