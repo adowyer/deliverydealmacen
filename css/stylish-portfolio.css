@@ -53,9 +53,8 @@ h6 {
   color: rgba(255, 255, 255,1);
 }
 
-h5 {
+h2 {
   color: rgba(255, 255, 255, 0.8) !important;
-  font-size: 2em !important;
 }
 
 .text-faded {
