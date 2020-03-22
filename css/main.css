@@ -41,7 +41,8 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ RS PLUGIN ]*/
 /*---------------------------------------------*/
-.container {max-width: 1200px;}
+.container {max-width: 1200px; height: 100%;}
+.container_almacen {}
 
 
 
@@ -298,7 +299,7 @@ Primary use:
 
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
-.bg0 {background-color: #fff; background-image: /images/Fondo-Delivery-Almacen.png;}
+.bg0 {background-color: #fff; background-image: url(/images/Fondo-Delivery-Almacen.png);background-size: cover;}
 
 
 .bg-img1 {
