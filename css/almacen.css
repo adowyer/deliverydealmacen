@@ -13,24 +13,29 @@
     src: url('../fonts/Lato/Lato-Bold.ttf'); 
   }
   
-  .m2-txt2 {
+.m2-txt2 {
     font-family: Lato-Bold;
     font-size: 30px;
     line-height: 1;
     color: #fff;
   }
 
-  .l2-txt1 {
+.l2-txt1 {
     font-family: Lato-Bold;
     font-size: 40px;
     line-height: 1;
     color: #fff;
   }
 
-  .bg0 {
+.bg0 {
       width: 100vw;
       height: 100vh;
       z-index: -999;
       top: 0;
       left: 0;
     }
+.texto-1 {  
+    position: fixed;
+    top: 30%;
+    left: 20%;
+}
