@@ -16,6 +16,10 @@
   text-rendering: optimizeLegibility;
 }
 
+.mb-1, .mb-5 {
+ font-family: 'BloggerSans';
+}
+
 body,
 html {
   width: 100%;
@@ -102,7 +106,6 @@ h2 {
 .copy-container {
   padding-left: 5%;
   padding-right: 5%;
-  font-family: "BloggerSans-Bold";
 }
 
 .bottom-text {
