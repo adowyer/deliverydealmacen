@@ -160,7 +160,6 @@ h2 {
 
 .container {
   z-index: 99999 !important;
-  margin-top: 20px;
 }
 
 .copy-container {
@@ -187,8 +186,12 @@ h2 {
     height: 100vh;
   }
   .masthead h1 {
-    font-size: 6.5rem;
+    font-size: 5.5rem;
   }
+  .container {
+    margin-top: 35px !important;
+  }
+
 }
 
 /* Side Menu */
